@@ -1,1 +1,1 @@
-# business-analytcs-with-tableau-2
+# business-analytics-with-tableau-2
